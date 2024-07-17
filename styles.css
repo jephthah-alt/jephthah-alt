@@ -1,0 +1,20 @@
+*{margin: 0%;padding: 0%;}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    margin-top: 3%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.socials{
+    color: blue;
+    text-decoration: none;
+    margin: 5px;
+}
+.par{
+    margin-top: 3%;
+    font-style: italic;
+}
